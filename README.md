@@ -6,16 +6,20 @@ Agile Browser is a sleek, privacy-focused web browser designed to provide a seam
 
 Features:
 
-Built-in Ad Blocker
-Up to 8x more faster page load
-Search Engine Switching
-Omnibox with Autocomplete Algorithm
-Customizable UI
-RAM Efficient
-Web Tracking Protection
-Searches are private by default
-Customizable Behavior Startup
-Privacy Control
-Compatibility: Windows - 32bit/64bit MacOS - Coming Soon Linux - Coming Soon
+- Built-in Ad Blocker
+- Up to 8x more faster page load
+- Search Engine Switching
+- Omnibox with Autocomplete Algorithm
+- Customizable UI
+- RAM Efficient
+- Web Tracking Protection
+- Searches are private by default
+- Customizable Behavior Startup
+- Privacy Control
+
+Compatibility:
+Windows - 32bit/64bit
+MacOS - Coming Soon
+Linux - Coming Soon
 
 Download Now: https://agilebrowser.wixsite.com/home
