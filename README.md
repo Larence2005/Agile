@@ -7,7 +7,7 @@ Agile Browser is a sleek, privacy-focused web browser designed to provide a seam
 Features:
 
 - Built-in Ad Blocker
-- Up to 8x more faster page load
+- Up to 8x more faster page loads
 - Search Engine Switching
 - Omnibox with Autocomplete Algorithm
 - Customizable UI
