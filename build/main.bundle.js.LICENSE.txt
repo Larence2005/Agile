@@ -1,0 +1,304 @@
+/*!
+ * Based on parsel. Extended by Rémi Berson for Ghostery (2021).
+ * https://github.com/LeaVerou/parsel
+ *
+ * MIT License
+ *
+ * Copyright (c) 2020 Lea Verou
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in all
+ * copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ * SOFTWARE.
+ */
+
+/*!
+ * Copyright (c) 2008-2009 Bjoern Hoehrmann <bjoern@hoehrmann.de>
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to
+ * deal in the Software without restriction, including without limitation the
+ * rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+ * sell copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+ * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+ * IN THE SOFTWARE.
+ */
+
+/*!
+ * Copyright (c) 2017-present Cliqz GmbH. All rights reserved.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at https://mozilla.org/MPL/2.0/.
+ */
+
+/*!
+ * Copyright Mathias Bynens <https://mathiasbynens.be/>
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining
+ * a copy of this software and associated documentation files (the
+ * "Software"), to deal in the Software without restriction, including
+ * without limitation the rights to use, copy, modify, merge, publish,
+ * distribute, sublicense, and/or sell copies of the Software, and to
+ * permit persons to whom the Software is furnished to do so, subject to
+ * the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be
+ * included in all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ * EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ * MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ * NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+ * LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+ * OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+ * WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ */
+
+/*! *****************************************************************************
+Copyright (c) Microsoft Corporation.
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+***************************************************************************** */
+
+/*! ../popup */
+
+/*! ./api/browser-action */
+
+/*! ./api/commands */
+
+/*! ./api/context-menus */
+
+/*! ./api/cookies */
+
+/*! ./api/notifications */
+
+/*! ./api/runtime */
+
+/*! ./api/tabs */
+
+/*! ./api/web-navigation */
+
+/*! ./api/windows */
+
+/*! ./browser */
+
+/*! ./browser.js */
+
+/*! ./common */
+
+/*! ./node.js */
+
+/*! ./router */
+
+/*! ./store */
+
+/*! ./windows */
+
+/*! debug */
+
+/*! electron */
+
+/*! events */
+
+/*! exports provided: BrowserActionAPI */
+
+/*! exports provided: CommandsAPI */
+
+/*! exports provided: ContextMenusAPI */
+
+/*! exports provided: CookiesAPI */
+
+/*! exports provided: ElectronChromeExtensions, Extensions */
+
+/*! exports provided: ExtensionRouter */
+
+/*! exports provided: ExtensionStore */
+
+/*! exports provided: NotificationsAPI */
+
+/*! exports provided: PopupView */
+
+/*! exports provided: RuntimeAPI */
+
+/*! exports provided: TabsAPI */
+
+/*! exports provided: WebNavigationAPI */
+
+/*! exports provided: WindowsAPI */
+
+/*! exports provided: getExtensionManifest, getExtensionUrl, resolveExtensionPath, validateExtensionResource, ResizeType, matchSize, getIconPath, getIconImage, matchesPattern */
+
+/*! fetch-blob. MIT License. Jimmy Wärting <https://jimmy.warting.se/opensource> */
+
+/*! fs */
+
+/*! has-flag */
+
+/*! http://mths.be/fromcodepoint v0.1.0 by @mathias */
+
+/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/*! ms */
+
+/*! no static exports found */
+
+/*! node-domexception. MIT License. Jimmy Wärting <https://jimmy.warting.se/opensource> */
+
+/*! os */
+
+/*! path */
+
+/*! supports-color */
+
+/*! tty */
+
+/*! util */
+
+/*!*********************!*\
+  !*** external "fs" ***!
+  \*********************/
+
+/*!*********************!*\
+  !*** external "os" ***!
+  \*********************/
+
+/*!**********************!*\
+  !*** ./src/index.ts ***!
+  \**********************/
+
+/*!**********************!*\
+  !*** external "tty" ***!
+  \**********************/
+
+/*!***********************!*\
+  !*** external "path" ***!
+  \***********************/
+
+/*!***********************!*\
+  !*** external "util" ***!
+  \***********************/
+
+/*!*************************!*\
+  !*** external "events" ***!
+  \*************************/
+
+/*!***************************!*\
+  !*** external "electron" ***!
+  \***************************/
+
+/*!******************************!*\
+  !*** ./src/browser/index.ts ***!
+  \******************************/
+
+/*!******************************!*\
+  !*** ./src/browser/popup.ts ***!
+  \******************************/
+
+/*!******************************!*\
+  !*** ./src/browser/store.ts ***!
+  \******************************/
+
+/*!*******************************!*\
+  !*** ./src/browser/router.ts ***!
+  \*******************************/
+
+/*!*********************************!*\
+  !*** ./src/browser/api/tabs.ts ***!
+  \*********************************/
+
+/*!***********************************!*\
+  !*** ./src/browser/api/common.ts ***!
+  \***********************************/
+
+/*!************************************!*\
+  !*** ./src/browser/api/cookies.ts ***!
+  \************************************/
+
+/*!************************************!*\
+  !*** ./src/browser/api/runtime.ts ***!
+  \************************************/
+
+/*!************************************!*\
+  !*** ./src/browser/api/windows.ts ***!
+  \************************************/
+
+/*!*************************************!*\
+  !*** ./src/browser/api/commands.ts ***!
+  \*************************************/
+
+/*!******************************************!*\
+  !*** ./src/browser/api/context-menus.ts ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./src/browser/api/notifications.ts ***!
+  \******************************************/
+
+/*!*******************************************!*\
+  !*** ./src/browser/api/browser-action.ts ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./src/browser/api/web-navigation.ts ***!
+  \*******************************************/
+
+/*!************************************************************!*\
+  !*** D:/work/electron-extensions/node_modules/ms/index.js ***!
+  \************************************************************/
+
+/*!******************************************************************!*\
+  !*** D:/work/electron-extensions/node_modules/debug/src/node.js ***!
+  \******************************************************************/
+
+/*!******************************************************************!*\
+  !*** D:/work/electron-extensions/node_modules/has-flag/index.js ***!
+  \******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** D:/work/electron-extensions/node_modules/debug/src/index.js ***!
+  \*******************************************************************/
+
+/*!********************************************************************!*\
+  !*** D:/work/electron-extensions/node_modules/debug/src/common.js ***!
+  \********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** D:/work/electron-extensions/node_modules/debug/src/browser.js ***!
+  \*********************************************************************/
+
+/*!************************************************************************!*\
+  !*** D:/work/electron-extensions/node_modules/supports-color/index.js ***!
+  \************************************************************************/
