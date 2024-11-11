@@ -18,8 +18,8 @@ Features:
 - Privacy Control
 
 Compatibility:
-Windows - 32bit/64bit
-MacOS - Coming Soon
-Linux - Coming Soon
+- Windows - 32bit/64bit
+- MacOS - Coming Soon
+- Linux - Coming Soon
 
 Download Now: https://agilebrowser.wixsite.com/home
